@@ -1,0 +1,6 @@
+{
+  "name": "Юань Сатуу | Alipay & WeChat Юань Алмаштыруу",
+  "description": "Кытайдан товар алгандар үчүн юанды ыңгайлуу, тез жана ишенимдүү сатып алуу кызматы. Актуалдуу курс, калькулятор жана WhatsApp аркылуу тез заказ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
